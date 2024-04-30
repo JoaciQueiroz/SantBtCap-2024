@@ -1,4 +1,4 @@
-# SantBtCap-2024
+# SantBtCap-2024-Java
 Repositório para códigos e matérias de apoio do Santander BootCamp 2024
 ## Autor
 
