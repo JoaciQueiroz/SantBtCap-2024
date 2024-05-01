@@ -3,6 +3,7 @@
 
 # Log file
 *.log
+tipos-variaveis/.vscode/settings.json
 
 # BlueJ files
 *.ctxt
